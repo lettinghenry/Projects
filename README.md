@@ -103,7 +103,7 @@ This is a 3d cinema ticket booking and seat preview site
 _________________
 
 **Repo Link**
-https://github.com/lettinghenry/movielist
+https://github.com/lettinghenry/movieList
 
 **Project Details**
 this is a website that displays a list of movies starting from the latest
